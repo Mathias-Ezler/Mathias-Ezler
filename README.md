@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Soy Mathias Enzler, soy Frontend Developer y vivo en Paraguay</h2>
+<h2 align="left">Hola 👋! Soy Mathias Enzler</h2>
 
 ###
 
